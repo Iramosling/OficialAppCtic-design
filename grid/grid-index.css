@@ -1,0 +1,13 @@
+.MainNavContainer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);   
+}
+.MainLinkSide{
+    display: grid;
+    grid-template-columns: 6em 20em;
+}
+.MainUserSide{
+    display: grid;
+    grid-template-columns: 40em 2em;
+    
+}
