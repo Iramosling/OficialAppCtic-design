@@ -93,3 +93,14 @@ padding: 1em 6em 1em 6em;
     color: black;
     text-decoration: none;
 }
+/*section card -END*/
+
+.FooterData{
+    background-color: var(--MainColorNav);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoFooter{
+    padding: 1em;
+}
