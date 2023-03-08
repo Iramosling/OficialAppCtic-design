@@ -1,3 +1,4 @@
+/*NAV*/
 .MainNavContainer{
     display: grid;
     grid-template-columns: repeat(2,1fr);   
@@ -9,5 +10,5 @@
 .MainUserSide{
     display: grid;
     grid-template-columns: 40em 2em;
-    
 }
+/*NAV - END*/
