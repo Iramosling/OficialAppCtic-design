@@ -12,3 +12,9 @@
     grid-template-columns: 40em 2em;
 }
 /*NAV - END*/
+
+.ConteinerCards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+}
